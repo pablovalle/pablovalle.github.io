@@ -115,7 +115,17 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
-
+      {socialMediaLinks.scholar ? (
+        <a
+          href={socialMediaLinks.scholar}
+          className="icon-button scholar"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-scholar"></i>
+          <span></span>
+        </a>
+      ) : null}
       {socialMediaLinks.kaggle ? (
         <a
           href={socialMediaLinks.kaggle}
