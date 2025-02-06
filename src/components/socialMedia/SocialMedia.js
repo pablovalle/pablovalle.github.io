@@ -68,6 +68,18 @@ export default function socialMedia() {
         </a>
       ) : null}
 
+      {socialMediaLinks.scholar ? (
+        <a
+          href={socialMediaLinks.scholar}
+          className="icon-button scholar"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-scholar-f"></i>
+          <span></span>
+        </a>
+      ) : null}
+
       {socialMediaLinks.instagram ? (
         <a
           href={socialMediaLinks.instagram}
@@ -112,17 +124,6 @@ export default function socialMedia() {
           rel="noopener noreferrer"
         >
           <i className="fab fa-stack-overflow"></i>
-          <span></span>
-        </a>
-      ) : null}
-      {socialMediaLinks.scholar ? (
-        <a
-          href={socialMediaLinks.scholar}
-          className="icon-button scholar"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-scholar"></i>
           <span></span>
         </a>
       ) : null}
