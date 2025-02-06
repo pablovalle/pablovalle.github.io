@@ -34255,7 +34255,7 @@
       },
       34: (t, e, i) => {
         "use strict";
-        t.exports = i.p + "static/media/scholar.png";
+        t.exports = i.p + "static/media/scholarLogo.png";
       },
       5972: (t, e, i) => {
         "use strict";
