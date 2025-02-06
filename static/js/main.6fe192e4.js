@@ -4653,7 +4653,7 @@
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
-                          (0, a.jsx)("i", { className: "fa-scholar" }),
+                          (0, a.jsx)("i", { className: "fab fa-google-scholar" }),
                           (0, a.jsx)("span", {}),
                         ],
                       })
