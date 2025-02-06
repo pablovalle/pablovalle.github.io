@@ -631,7 +631,9 @@ input:checked+.slider:after {
 .facebook i {
     background-color: #3b5998
 }
-
+.scholar i {
+    background-color: #3b5998
+}
 .linkedin i {
     background-color: #0e76a8
 }
@@ -669,6 +671,7 @@ input:checked+.slider:after {
 }
 
 .facebook i:hover,
+.scholar i:hover,
 .github i:hover,
 .gitlab i:hover,
 .google i:hover,

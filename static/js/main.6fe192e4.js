@@ -4646,6 +4646,18 @@
                         ],
                       })
                     : null,
+                    r.v7.scholar
+                    ? (0, a.jsxs)("a", {
+                        href: r.v7.scholar,
+                        className: "icon-button scholar",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        children: [
+                          (0, a.jsx)("i", { className: "fab fa-scholar" }),
+                          (0, a.jsx)("span", {}),
+                        ],
+                      })
+                    : null,
                   r.v7.facebook
                     ? (0, a.jsxs)("a", {
                         href: r.v7.facebook,
@@ -4771,7 +4783,7 @@
             github: "https://github.com/saadpasta",
             linkedin: "https://www.linkedin.com/in/saadpasta/",
             gmail: "pvalle@mondragon.edu",
-            facebook: "https://scholar.google.com/citations?user=-3y0BlAAAAAJ&hl=es",
+            scholar: "https://scholar.google.com/citations?user=-3y0BlAAAAAJ&hl=es",
             medium: "https://medium.com/@saadpasta",
             stackoverflow:
               "https://stackoverflow.com/users/10422806/saad-pasta",
