@@ -652,10 +652,6 @@ input:checked+.slider:after {
     background-color: #1da1f2
 }
 
-.scholar i {
-    background-color: #1da1f2
-}
-
 .medium i {
     background-color: #000
 }
@@ -673,7 +669,6 @@ input:checked+.slider:after {
 }
 
 .facebook i:hover,
-.scholar i:hover,
 .github i:hover,
 .gitlab i:hover,
 .google i:hover,

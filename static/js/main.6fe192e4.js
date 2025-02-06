@@ -4646,18 +4646,6 @@
                         ],
                       })
                     : null,
-                  r.v7.scholar
-                    ? (0, a.jsxs)("a", {
-                        href: r.v7.gitlab,
-                        className: "icon-button scholar",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        children: [
-                          (0, a.jsx)("i", { className: "fab fa-scholar" }),
-                          (0, a.jsx)("span", {}),
-                        ],
-                      })
-                    : null,
                   r.v7.facebook
                     ? (0, a.jsxs)("a", {
                         href: r.v7.facebook,
