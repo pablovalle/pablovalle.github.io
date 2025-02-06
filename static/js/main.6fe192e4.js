@@ -4646,6 +4646,18 @@
                         ],
                       })
                     : null,
+                  r.v7.scholar
+                    ? (0, a.jsxs)("a", {
+                        href: r.v7.gitlab,
+                        className: "icon-button scholar",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        children: [
+                          (0, a.jsx)("i", { className: "fab fa-scholar" }),
+                          (0, a.jsx)("span", {}),
+                        ],
+                      })
+                    : null,
                   r.v7.facebook
                     ? (0, a.jsxs)("a", {
                         href: r.v7.facebook,
@@ -4761,7 +4773,7 @@
             username: "Pablo Valle",
             title: "Hi all, I'm Pablo",
             subTitle: a()(
-              "a PhD student in the Software Engineering and Systems research gorup at Mondragon University. My PhD research focuses on Simulation-Based Automated Program Repair for AI-Enabled Cyber-Physical Systems (CPSs). My research interests include software engineering, debugging, fault localization and isolation, repair, autonomous systems, and reliability and robustness of AI-driven CPSs."
+              "I'm a PhD student at Mondragon University. My research focuses on Simulation-Based Automated Program Repair for AI-Enabled Cyber-Physical Systems (CPSs)."
             ),
             resumeLink:
               "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -4770,9 +4782,8 @@
           l = {
             github: "https://github.com/saadpasta",
             linkedin: "https://www.linkedin.com/in/saadpasta/",
-            gmail: "saadpasta70@gmail.com",
-            gitlab: "https://gitlab.com/saadpasta",
-            facebook: "https://www.facebook.com/saad.pasta7",
+            gmail: "pvalle@mondragon.edu",
+            scholar: "https://scholar.google.com/citations?user=-3y0BlAAAAAJ&hl=es",
             medium: "https://medium.com/@saadpasta",
             stackoverflow:
               "https://stackoverflow.com/users/10422806/saad-pasta",
