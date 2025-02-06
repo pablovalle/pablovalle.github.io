@@ -34255,7 +34255,7 @@
       },
       34: (t, e, i) => {
         "use strict";
-        t.exports = i.p + "static/media/scholarLogo.png";
+        t.exports = i.p + "static/media/facebookLogo.f46d68b24e9b4f73ee8b.png";
       },
       5972: (t, e, i) => {
         "use strict";
