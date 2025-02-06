@@ -4761,7 +4761,7 @@
             username: "Pablo Valle",
             title: "Hi all, I'm Pablo",
             subTitle: a()(
-              "A passionate Full Stack Software Developer \ud83d\ude80 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+              "A passionate Full Stack Software Developer \ud83d having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
             ),
             resumeLink:
               "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
