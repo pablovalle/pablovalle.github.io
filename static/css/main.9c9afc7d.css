@@ -669,9 +669,6 @@ input:checked+.slider:after {
 .instagram i {
     background-color: #c13584
 }
-.fa-scholar:before {
-    content: "\e63b"
-}
 .facebook i:hover,
 .scholar i:hover,
 .github i:hover,
