@@ -4783,7 +4783,7 @@
             github: "https://github.com/saadpasta",
             linkedin: "https://www.linkedin.com/in/saadpasta/",
             gmail: "pvalle@mondragon.edu",
-            scholar: "https://scholar.google.com/citations?user=-3y0BlAAAAAJ&hl=es",
+            facebook: "https://scholar.google.com/citations?user=-3y0BlAAAAAJ&hl=es",
             medium: "https://medium.com/@saadpasta",
             stackoverflow:
               "https://stackoverflow.com/users/10422806/saad-pasta",
@@ -34255,7 +34255,7 @@
       },
       34: (t, e, i) => {
         "use strict";
-        t.exports = i.p + "static/media/facebookLogo.f46d68b24e9b4f73ee8b.png";
+        t.exports = i.p + "static/media/scholar.png";
       },
       5972: (t, e, i) => {
         "use strict";
