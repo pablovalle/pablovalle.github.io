@@ -4761,7 +4761,7 @@
             username: "Pablo Valle",
             title: "Hi all, I'm Pablo",
             subTitle: a()(
-              "A passionate Full Stack Software Developer \ud83d having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+              "a PhD student in the Software Engineering and Systems research gorup at Mondragon University. My PhD research focuses on Simulation-Based Automated Program Repair for AI-Enabled Cyber-Physical Systems (CPSs). My research interests include software engineering, debugging, fault localization and isolation, repair, autonomous systems, and reliability and robustness of AI-driven CPSs."
             ),
             resumeLink:
               "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
